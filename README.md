@@ -2,7 +2,7 @@
 ---
 - Student at OMSU, Applied Mathematics and Computer Science
 - I’m interested in
-  - backend programming
+ - backend programming
   - concurrency
   - algorithms & data structures
   - distributed systems
