@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**ArkadyRudenko/ArkadyRudenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Arkady Rudenko (@arkadyrudenko)
+---
+- Student at OMSU, Applied Mathematics and Computer Science
+- I’m interested in
+  - backend programming
+  - concurrency
+  - algorithms & data structures
+  - distributed systems
+  - I’m currently learning C++, Golang and concurrency
+  
+- How to reach me
+  - public email
+  - telegram: arkadyrudenko
+  - linkedin: arkadyrudenko
