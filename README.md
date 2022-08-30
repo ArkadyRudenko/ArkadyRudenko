@@ -7,7 +7,7 @@
   - concurrency
   - algorithms & data structures
   - distributed systems
-  - I’m currently learning C++, Rust, Golang
+  - I’m currently learning C++, Rust, concurrency
 
 - How to reach me
   - public email
