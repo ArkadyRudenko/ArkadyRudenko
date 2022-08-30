@@ -6,8 +6,8 @@
   - backend programming
   - concurrency
   - algorithms & data structures
-  - distributed systems
-  - I’m currently learning C++, Golang and concurrency
+  - distributed systems, concurrency
+  - I’m currently learning C++, Rust, Golang
 
 - How to reach me
   - public email
