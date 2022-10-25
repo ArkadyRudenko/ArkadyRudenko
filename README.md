@@ -4,10 +4,10 @@
 
 - I’m interested in
   - backend programming
-  - concurrency
-  - algorithms & data structures
   - distributed systems
-  - I’m currently learning C++, Rust, concurrency
+  - algorithms & data structures
+  - concurrency
+  - I’m currently learning distributed systems and Rust
 
 - How to reach me
   - public email
