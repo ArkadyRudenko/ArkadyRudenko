@@ -10,9 +10,8 @@
   - I’m currently learning distributed systems and Rust
 
 - How to reach me
-  - public email
-  - telegram: arkadyrudenko
-  - linkedin: arkadyrudenko
+  - [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rudenko.arkashaa@gmail.com)
+  - [![Telegram Badge](https://img.shields.io/badge/-arkadyrudenko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/arkadyrudenko)
 
 ---
 
