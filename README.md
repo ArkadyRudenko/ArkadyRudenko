@@ -3,10 +3,10 @@
 - Student at OMSU, Applied Mathematics and Computer Science
 
 - I’m interested in
-  - backend programming
+  - concurrency
   - distributed systems
   - algorithms & data structures
-  - concurrency
+  - backend programming
   - I’m currently learning distributed systems and Rust
 
 - How to reach me
