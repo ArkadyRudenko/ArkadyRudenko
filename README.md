@@ -7,7 +7,7 @@
   - distributed systems
   - algorithms & data structures
   - backend programming
-  - I’m currently learning distributed systems and Rust
+  - I’m currently work on userver, learning distributed systems and operating systems
 
 - How to reach me
   - [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rudenko.arkashaa@gmail.com)
